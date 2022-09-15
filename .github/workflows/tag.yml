@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     tags:
-      - '@hi@**'
+      - '@edgelabs/hi@**'
 
 jobs:
   build:
